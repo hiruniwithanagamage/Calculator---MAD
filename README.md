@@ -101,7 +101,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Author
 
-Developed by **[Your Name](https://github.com/your-username)**. Feel free to connect or contribute!
+Developed by **[Hiruni Withanagamage](https://github.com/hiruniwithnagamage)**. Feel free to connect or contribute!
 
 ---
 
