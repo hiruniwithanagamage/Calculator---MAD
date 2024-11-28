@@ -21,13 +21,16 @@ A simple yet functional calculator app built using **Flutter**. The app provides
 ---
 
 ## Demo
-[Uploading Screen_recording_20241128_171443.webm…]()
+[Screen_recording_20241128_171443.webm](https://github.com/user-attachments/assets/eb38bd52-caa1-4cab-8140-08d6b68541ce)
+
 
 ---
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/b48291db-0d8c-4d45-9cce-25c5acf5803b)
-![image](https://github.com/user-attachments/assets/c9432df2-2957-4282-af0c-91ce307aa1ee)
+
+![Screenshot 2024-11-28 171133](https://github.com/user-attachments/assets/13bab6d4-0534-4bd1-9f38-966cba4ccb37)
+
 ![image](https://github.com/user-attachments/assets/d408b5f7-8969-4be5-acc8-32ba34f229af)
 
 
