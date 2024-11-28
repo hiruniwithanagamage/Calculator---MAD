@@ -21,7 +21,7 @@ A simple yet functional calculator app built using **Flutter**. The app provides
 ---
 
 ## Demo
-[Screen_recording_20241128_171443.webm](https://github.com/user-attachments/assets/eb38bd52-caa1-4cab-8140-08d6b68541ce)
+[Screen Recording.webm](https://github.com/user-attachments/assets/eb38bd52-caa1-4cab-8140-08d6b68541ce)
 
 
 ---
